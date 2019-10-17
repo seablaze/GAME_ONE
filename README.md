@@ -1,11 +1,7 @@
 This is our first game yay.
 
-Create your own folder when uploading stuffs.
+Create your own folder when uploading stuffs, seperate code and package.
 
-Create branch when applying changes
-
-Fork to experiment on your own
-
-Do not use pull request
+Do not pull request.
 
 火锅局有人吗
