@@ -1,7 +1,8 @@
 This is our first game yay.
 
-Create your own folder when uploading stuffs, seperate code and package.
+This is a shooting and puzzle solving based game set in the Middle Age.
+We try to use game as a media to tell a compelling story about social prejudice in that time era.
 
-Do not pull request.
+In folder /Eric there is the most up-to-date open source godot package of the game
 
-火锅局有人吗
+The game design document is currently at version 1.1
